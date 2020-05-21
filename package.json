@@ -1,0 +1,14 @@
+{
+  "name": "northern",
+  "version": "1.0.0",
+  "description": "Landing page subscription ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "issam",
+  "license": "ISC",
+  "dependencies": {
+    "email-validator": "^2.0.4"
+  }
+}
