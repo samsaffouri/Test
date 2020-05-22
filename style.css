@@ -84,7 +84,7 @@ label{
 	font-size: 12px;
 	text-align: right;
     float: right;
-    height: 20px;
+    min-height: 20px;
     width: 100%;
 }
 .errorBorder{
